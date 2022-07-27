@@ -6,4 +6,4 @@
 </p>
  
  Link para acesso:
- https://miguelmorassuti.github.io/Projeto-Redes/projeto/
+ https://miguelmorassuti.github.io/Projeto-Redes/projeto/index
